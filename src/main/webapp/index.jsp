@@ -2,6 +2,8 @@
 <body>
 	<h1>Hello World for test case</h1>
 	<h2> This is a Test page for demonstrating CI and CD with Continuous Integration</h2>
+	<h3>Hello World for test case 2 : auto detect of change</h3>
+
 <form>
 	First name:<br>
 	 	<input type="text" name="firstname"><br>
